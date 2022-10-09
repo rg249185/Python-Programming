@@ -12,7 +12,7 @@
 <br></br>
 ##
  
-  ### 2. Then go to https://github.com/iamrahulroy11/C-programming and click on *"star"*🌟 and *"fork"*🍴.
+  ### 2. Then go to https://github.com/rg249185/Python-Programming and click on *"star"*🌟 and *"fork"*🍴.
   
 <br></br>
 ##
